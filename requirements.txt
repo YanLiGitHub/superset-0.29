@@ -54,7 +54,7 @@ mako==1.0.7               # via alembic
 markdown==3.0
 markupsafe==1.0           # via jinja2, mako
 openpyxl==2.4.11          # via tabulator
-numpy==1.15.2             # via numpy
+numpy==1.22.0             # via numpy
 pandas==0.23.4            # via pandas
 parsedatetime==2.0.0
 pathlib2==2.3.0
